@@ -1,2 +1,2 @@
 # AroundAI
-/ AroundAI is a Product with Usefull AI tools
+## AroundAI is a Product with Usefull AI tools
