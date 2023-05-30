@@ -3,8 +3,6 @@
 ## Overview
 This project is an AI-based image generation tool built using ReactJS, Tailwind CSS, and the OpenAI API. The tool allows users to generate high-quality images using advanced artificial intelligence algorithms.
 
-![Demo](demo.gif)
-
 ## Features
 - Seamless integration with the OpenAI API for leveraging AI capabilities in image generation.
 - User-friendly interface for a smooth and interactive user experience.
