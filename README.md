@@ -31,7 +31,7 @@ http://localhost:3000
 4. Explore and download the generated images.
 
 ## Demo
-For a live demo of the application, visit [Demo Link](https://your-demo-link.com).
+For a live demo of the application, visit [Demo Link](https://aroundai.vercel.app).
 
 ## Contributing
 Contributions are welcome! Please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) to contribute to this project.
